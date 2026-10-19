@@ -1,0 +1,8 @@
+# Only track notebooks; data, figures and everything else stay local.
+*
+!*/
+!*.ipynb
+!.gitignore
+.ipynb_checkpoints/
+!README.md
+real/
